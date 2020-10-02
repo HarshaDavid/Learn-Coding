@@ -1,0 +1,7 @@
+---
+name: EBEL JOSE ALAPPATT
+age: 19
+institution: SAHRDAYA COLLEGE OF ENGINEERING and TECHNOLOGY
+quote: YOU KNOW ME !
+github_user: EBELJOS3
+---
